@@ -1,11 +1,13 @@
 
-Group__7
-student name
-dereje Tesfaye..........................160416
-Tadios Misganaw.........................161162
-Biruk Getaye............................160962
-Bizuye Abebe............................160355
-Eyerusalem Niguse.......................160528
+#Group__7
+#student name
+
+
+1. dereje Tesfaye..........................160416
+2. Tadios Misganaw.........................161162
+3. Biruk Getaye............................160962
+4. Bizuye Abebe............................160355
+5. Eyerusalem Niguse.......................160528
 
 
 # Student__Attendance__System
