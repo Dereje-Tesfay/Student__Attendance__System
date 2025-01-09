@@ -1,4 +1,16 @@
+
+Group__7
+student name
+dereje Tesfaye..........................160416
+Tadios Misganaw.........................161162
+Biruk Getaye............................160962
+Bizuye Abebe............................160355
+Eyerusalem Niguse.......................160528
+
+
 # Student__Attendance__System
+
+
  A Student Attendance System is used to track and manage the attendance of students in a class.
 The system typically allows administrators (or teachers) to record, modify, delete, and 
 view attendance records for students.
