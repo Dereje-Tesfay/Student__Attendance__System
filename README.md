@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/c00dfce5-ae09-4ca4-a0a1-37db4a398ef6)
 
 
-#project title#
+#project title
 5. Student Attendance System
 Description:
 This system tracks student attendance, generates reports, and handles absence records.
