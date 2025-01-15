@@ -20,13 +20,21 @@
 Description:
 This system tracks student attendance, generates reports, and handles absence records.
 Key Activities:
+
 ● Classes: Student, Attendance
+
 ● Add: Record a student's attendance for a particular day.
+
 ● Delete: Remove attendance records.
+
 ● Search: Search for attendance by student name or date.
+
 ● Modify: Modify attendance records.
+
 ● View All: Display all attendance records for a particular student or class.
+
 ● File Handling: Save and load attendance data.
+
 ● Pointer: Use pointers to dynamically manage student attendance.
 
 
