@@ -4,30 +4,6 @@
 
 ![image](https://github.com/user-attachments/assets/c00dfce5-ae09-4ca4-a0a1-37db4a398ef6)
 
-
-#project title
-5. Student Attendance System
-Description:
-This system tracks student attendance, generates reports, and handles absence records.
-Key Activities:
-
-● Classes: Student, Attendance
-
-● Add: Record a student's attendance for a particular day.
-
-● Delete: Remove attendance records.
-
-● Search: Search for attendance by student name or date.
-
-● Modify: Modify attendance records.
-
-● View All: Display all attendance records for a particular student or class.
-
-● File Handling: Save and load attendance data.
-
-● Pointer: Use pointers to dynamically manage student attendance.
-
-
 # Student__Attendance__System
 
 
